@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbj8FPQHxDhNNe5AoMBHtRWtBhwBlalfR9MEs2+oC8EKyoMebRkLOVuQpyYo2XrC7530BdyJMfBjPKbE1dew9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HDR-PC\\source\\repos\\Mirroring\\Mirroring\\Mirroring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HDR-PC\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0-preview.5.24306.7\\microsoft.win32.systemevents.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "C:\\Users\\HDR-PC\\.nuget\\packages\\system.drawing.common\\9.0.0-preview.5.24306.5\\system.drawing.common.9.0.0-preview.5.24306.5.nupkg.sha512"
+  ],
+  "logs": []
+}
